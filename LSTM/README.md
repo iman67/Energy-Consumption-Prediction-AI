@@ -1,7 +1,9 @@
 This Directory is for LSTM model.
 
-RMSE = 401.42964702140944
+RMSE = 298.9162943671882
 
-Accuracy = 96.66053298954762
+Accuracy = 97.84312246713598
+
+Error Rate = 2.15687753286402
 
 65 epochs
