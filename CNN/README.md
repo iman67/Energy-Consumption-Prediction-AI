@@ -9,3 +9,5 @@ Error Rate = 2.42429473804461
 65 epochs
 
 Faster than LSTM
+
+Maybe Overfit problem  =>  Tested with 79%, 80%, and 81%  => Best one 80%
