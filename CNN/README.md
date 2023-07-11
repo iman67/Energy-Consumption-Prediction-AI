@@ -1,4 +1,4 @@
-This Directory is for CNN Model.
+This Directory is for 1D CNN Model.
 
 RMSE = 332.86038095037424
 
