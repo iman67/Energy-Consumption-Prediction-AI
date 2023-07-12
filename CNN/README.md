@@ -11,3 +11,5 @@ Error Rate = 2.42429473804461
 Faster than LSTM
 
 Maybe Overfit Problem  =>  Tested with 79%, 80%, and 81%  => Best one 80%
+
+Checked Other Models of CNN  =>  This is the best one for CNN
